@@ -16,3 +16,4 @@ Food recipe application built with following screens
 - Room DB
 - Hilt for DI
 
+![img_details.png](images/img_details.png)
